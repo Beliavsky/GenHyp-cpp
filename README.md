@@ -1,5 +1,5 @@
 # GenHyp-cpp
-Generalized hyperbolic distribution in C++. On Windows, compile with a command such as
+Generalized hyperbolic distribution density, mean, and variance in C++. On Windows, compile with a command such as
 
 ```
 g++ -IC:\cpp\boost_1_87_0 -LC:\cpp\boost_1_87_0\stage\lib xgenhyp.cpp
